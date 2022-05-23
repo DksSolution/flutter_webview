@@ -15,7 +15,7 @@ class NoInternetWidget extends StatefulWidget {
 
 class _NoInternetWidgetState extends State<NoInternetWidget> {
   bool _isLoading = false;
-  
+
   @override
   void initState() {
     super.initState();
